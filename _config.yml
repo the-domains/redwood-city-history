@@ -1,14 +1,14 @@
-layout_spectrum: 0.6765022508334368
-typography_spectrum: 0.45729368180036545
+layout_spectrum: 0.34562725527212024
+typography_spectrum: 0.660923233255744
 color:
-  brandStrength: 0.13652051659300923
-  lightness: 0.5883657459635288
-  saturation: 0.2341195330955088
-  rhythmicContrast: 0.26615544548258185
+  brandStrength: 0.46806857641786337
+  lightness: 0.364117935532704
+  saturation: 0.9459720300510526
+  rhythmicContrast: 0.914522260427475
   brandColors:
-    - '#7D8A2E'
-    - '#C9D787'
-    - '#FFFFFF'
-    - '#FFC0A9'
-    - '#FF8598'
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
 name: Redwood City History
