@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:47:09.133Z'
+datePublished: '2016-07-20T17:47:45.143Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
 isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
@@ -25,7 +25,7 @@ author:
     url: 'http://katesierzputowski.com/'
     avatar: {}
 via: {}
-dateModified: '2016-07-20T17:47:08.754Z'
+dateModified: '2016-07-20T17:47:44.723Z'
 title: ''
 app_links: []
 publisher: {}
@@ -38,4 +38,3 @@ _type: MediaObject
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e752c5-1f44-4f3a-8087-b850a23695a5.jpg)
-![Describe what this site is](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e1c140a-d9af-4a07-af87-e66f94eab923.jpg)
