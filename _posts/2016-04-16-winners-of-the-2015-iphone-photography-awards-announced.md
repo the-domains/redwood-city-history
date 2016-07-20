@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:49:02.809Z'
+datePublished: '2016-07-20T17:52:06.774Z'
 sourcePath: _posts/2016-04-16-winners-of-the-2015-iphone-photography-awards-announced.md
 inFeed: true
 isBasedOnUrl: 'http://www.ippawards.com/2015-iphone-photography-awards-winners-announced/'
@@ -17,18 +17,14 @@ keywords:
   - poland
 related: []
 author: []
-dateModified: '2016-07-20T17:49:02.348Z'
+via: {}
+dateModified: '2016-07-20T17:52:06.262Z'
 title: Events
 app_links: []
-publisher:
-  url: 'http://www.ippawards.com'
-  name: Ippawards
-  favicon: 'http://ippcdn2.ippawards.com/wp-content/uploads/2014/10/favicon.ico'
-  domain: www.ippawards.com
+publisher: {}
 description: List events and link City calendar
 inLanguage: en
 inNav: false
-via: {}
 starred: false
 _context: 'http://schema.org'
 _type: MediaObject
