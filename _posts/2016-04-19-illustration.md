@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-20T17:51:32.739Z'
+datePublished: '2016-08-05T18:08:58.006Z'
 sourcePath: _posts/2016-04-19-illustration.md
 inFeed: true
 isBasedOnUrl: 'http://www.thisiscolossal.com/category/illustration/'
@@ -17,15 +17,9 @@ keywords:
   - digital
   - behance
 related: []
-author:
-  - name: Christopher Jobson
-    url: 'http://thisiscolossal.com/about'
-    avatar: {}
-  - name: Kate Sierzputowski
-    url: 'http://katesierzputowski.com/'
-    avatar: {}
+author: []
 via: {}
-dateModified: '2016-07-20T17:51:32.002Z'
+dateModified: '2016-08-05T18:08:57.529Z'
 title: ''
 app_links: []
 publisher: {}
@@ -38,6 +32,6 @@ _type: MediaObject
 
 ---
 Introduction
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/53e752c5-1f44-4f3a-8087-b850a23695a5.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1f575ee-be43-43ea-b28b-ed5957af0253.jpg)
 
 Caption of what site is
